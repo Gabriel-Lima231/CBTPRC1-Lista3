@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\Lista3_13\bin\Debug\Lista3_13.exe.config
+C:\Users\gabri\source\repos\Lista3_13\bin\Debug\Lista3_13.exe
+C:\Users\gabri\source\repos\Lista3_13\bin\Debug\Lista3_13.pdb
+C:\Users\gabri\source\repos\Lista3_13\obj\Debug\Lista3_13.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Lista3_13\obj\Debug\Lista3_13.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Lista3_13\obj\Debug\Lista3_13.exe
+C:\Users\gabri\source\repos\Lista3_13\obj\Debug\Lista3_13.pdb
